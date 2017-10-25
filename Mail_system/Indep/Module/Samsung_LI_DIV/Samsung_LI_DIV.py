@@ -12,7 +12,7 @@ import email_logger
 #import win32com.client
 import smtp_fnguide2
 
-##20171025; 한국투자밸류 운용 유경덕 요청: 2인 이메일 주소 수신인에 추가. 대리 박혜민( 02-3276-6135 / value.phm@truefriend.com ), 사원 방미라( 02-3276-6029 / mira.bang@truefriend.com )
+##20171025; 한국투자밸류 운용 유경덕 요청: 2인 이메일 주소 수신인에 추가. 대리 박혜민( 02-3276-6135 / value.phm@truefriend.com ), 사원 방미라( 02-3276-6029 / mira.bang@truefriend.com).
 
 ##Real mode
 mail_sender = 'index@fnguide.com'
