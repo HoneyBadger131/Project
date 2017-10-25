@@ -12,10 +12,11 @@ import email_logger
 #import win32com.client
 import smtp_fnguide2
 
+##20171025; 한국투자밸류 운용 유경덕 요청: 2인 이메일 주소 수신인에 추가. 대리 박혜민( 02-3276-6135 / value.phm@truefriend.com ), 사원 방미라( 02-3276-6029 / mira.bang@truefriend.com )
 
 ##Real mode
 mail_sender = 'index@fnguide.com'
-emails = 'bhkeen.kim@samsung.com; yh8426.kim@samsung.com; hs_brian.kim@samsung.com; keenbh@naver.com; yukyoung.won@samsung.com; sh90.gwon@samsung.com; compliance.risk.kr@barings.com; equity.kr@barings.com; Institutional.kr@barings.com; jasmine.kim@barings.com; hong.kim@barings.com; lindsey.chang@barings.com; hwajin@syfund.co.kr; minah.choi@syfund.co.kr; risk@syfund.co.kr; kukdae@truefriend.com; kdyoo@truefriend.com; young88@truefriend.com; yopark@midasasset.com; seongcheol.hong@midasasset.com; phj@midasasset.com; ylkim@midasasset.com; kimung@midasasset.com; kunhee.ko@samsung.com'
+emails = 'bhkeen.kim@samsung.com; yh8426.kim@samsung.com; hs_brian.kim@samsung.com; keenbh@naver.com; yukyoung.won@samsung.com; sh90.gwon@samsung.com; compliance.risk.kr@barings.com; equity.kr@barings.com; Institutional.kr@barings.com; jasmine.kim@barings.com; hong.kim@barings.com; lindsey.chang@barings.com; hwajin@syfund.co.kr; minah.choi@syfund.co.kr; risk@syfund.co.kr; kukdae@truefriend.com; kdyoo@truefriend.com; young88@truefriend.com; yopark@midasasset.com; seongcheol.hong@midasasset.com; phj@midasasset.com; ylkim@midasasset.com; kimung@midasasset.com; kunhee.ko@samsung.com; value.phm@truefriend.com; mira.bang@truefriend.com;'
 cc = 'index@fnguide.com; hskim@fnguide.com'
 
 ## Test Mode
